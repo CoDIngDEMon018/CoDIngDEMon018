@@ -1,6 +1,14 @@
-### Hi there, I'm Arnav Goyal! 👋
+<h1 align="center">Hi there, I'm Arnav Goyal! 👋</h1>
 
-I'm a Machine Learning Engineer with experience in Python, C++, SQL, and JavaScript. I specialize in building ML models using NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, and NLTK. I also have knowledge of frontend technologies like HTML5, CSS, Tailwind, Bootstrap, React, and backend technologies like Node.js, Express, MongoDB, SQL, and Docker. Currently, I'm exploring backend development and working on a real-time graph and tree visualization tool.
+## 🚀 About Me  
+
+- 🧠 **Machine Learning Engineer** | Passionate about AI & Data Science  
+- 🎨 **Front-end Developer** | Building interactive UI with modern frameworks  
+- ⚙️ **Exploring Back-end** | Learning full-stack development & deployment  
+- 🔬 **Current Focus**: Real-time Graph & Tree Visualization Tool
+- 📧 **To reach me**: [arnavgoyal1660@gmail.com](mailto:arnavgoyal1660@gmail.com)
+
+---
 
 ### 🛠 Tech Stack
 
@@ -26,11 +34,7 @@ I'm a Machine Learning Engineer with experience in Python, C++, SQL, and JavaScr
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 📊 GitHub Stats
 
-![CoDIngDEMon018's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoDIngDEMon018&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoDIngDEMon018&layout=compact&theme=tokyonight)
 
-### 📫 Connect with Me
 
-📧 Email: [arnavgoyal1660@gmail.com](mailto:arnavgoyal1660@gmail.com)
